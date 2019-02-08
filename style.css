@@ -13,3 +13,21 @@
 .section1 {
     background-color: aquamarine;
 }
+div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.div1 {
+    background-color: blue;
+}
+.div2 {
+    background-color: green;
+}
+.div3 {
+    background-color: yellow;
+}
+.div4 {
+    background-color: red;
+}
