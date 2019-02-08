@@ -46,3 +46,9 @@ div {
     border-style: solid;
     display: block;
 }
+.submit {
+    width: 60px;
+    height: 30px;
+    background-color: black;
+    color: aqua;
+}
